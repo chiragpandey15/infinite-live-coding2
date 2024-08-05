@@ -1,0 +1,65 @@
+[17:15] Ekta Khosla
+Task: To-Do List Application with React
+
+Objective:
+
+Create a React application that allows users to manage their to-do lists. The app should support basic CRUD (Create, Read, Update, Delete) operations and provide a simple, user-friendly interface.
+
+Requirements:
+
+	1.	User Authentication: --- Done
+
+	◦	Implement a simple login and registration system.
+
+	◦	Users should be able to log in and see their personal to-do lists.
+
+	2.	To-Do List Features:
+
+	◦	Users can create new to-do items with a title and description.
+
+	◦	Users can edit and update existing to-do items.
+
+	◦	Users can mark to-do items as completed or not completed.
+
+	◦	Users can delete to-do items.
+
+	3.	UI/UX Considerations:
+
+	◦	Provide a clean and minimalistic interface.
+
+	◦	Ensure the application is responsive and works well on various screen sizes.
+
+	◦	Include visual feedback for user actions (e.g., animations, transitions).
+
+	4.	Data Management:
+
+	◦	Implement local storage or a simple backend to save to-do items, ensuring persistence between sessions.
+
+	◦	Use state management (e.g., React's Context API or a state management library like Redux) to handle the application state.
+
+	5.	Sorting and Filtering:
+
+	◦	Allow users to sort to-do items by creation date, due date, or title.
+
+	◦	Implement filters to show all items, only completed items, or only incomplete items.
+
+	6.	Technical Requirements:
+
+	◦	Use React.js for the front end.
+
+	◦	Implement state management for handling the application's state.
+
+	◦	Use a backend service (e.g., Node.js with Express) for user authentication and to-do item storage, if not using local storage.
+
+	◦	Use a database (e.g., MongoDB, PostgreSQL) for storing user data and to-do items, if not using local storage.
+
+	7.	Bonus:
+
+	◦	Add due dates to to-do items and highlight overdue items.
+
+	◦	Implement drag-and-drop functionality to reorder to-do items.
+
+	◦	Add support for categories or tags to organize to-do items.
+
+This task requires a solid understanding of React and state management, but it is simpler than the previous tasks, making it a good challenge for intermediate developers while still offering opportunities to learn and implement key features of a functional web application.
+ 
